@@ -5,8 +5,11 @@
 Prerequisites to have node(and npm) installed
 
 > `mkdir cypress-testing`
+
 > `cd cypress-testing`
+
 > `npm init`
+
 > `npx cypress open`
 
 It should open a new window that says `E2E Testing` not configured.
